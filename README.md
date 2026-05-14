@@ -1,6 +1,7 @@
-# Mi Portfolio Web
+Mi Portfolio Web
 
 Este es mi proyecto de portfolio personal desarrollado como parte del Sprint 4  en Triple Ten.
+
 
 ## Descripción
 Un sitio web que muestra mis habilidades y proyectos en desarrollo web.
@@ -10,4 +11,4 @@ Un sitio web que muestra mis habilidades y proyectos en desarrollo web.
 - CSS
 - FIGMA
 ## Enlace al proyecto
-[Ver proyecto en vivo](URL_DE_GITHUB_PAGES_AQUI)
+[Ver proyecto en vivo]()
